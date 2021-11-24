@@ -1,0 +1,25 @@
+.daftar{
+    background-image: url('/assets/images/1c7748e76fbe2e43644082d987e3f54b.jpeg') !important;
+    background-size: cover;
+    background-position: center center;
+    max-width: 100%;  
+    height: auto;
+  }
+.a{
+    font-family: "Sofia", sans-serif;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+    text-align:center;
+    //animation: Slide_Up 1.4s ease;
+  }
+.b{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 10%;
+    //margin-bottom: 55px;
+    //animation: Slide_Up 2.1s ease;
+  }
+.fc-popover-body {
+    max-height: 90px;
+    overflow-y: auto;
+  }
